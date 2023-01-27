@@ -1,2 +1,2 @@
 # Assessment-of-the-factors-that-influence-contraceptive-method-choice-using-association-rule-mining
-Using Apriori algorithm to identify the combination of socio-economic factors that influence contraceptive method choice
+Various socio-economic factors such as level of education, standard of living and religion affect choice of contraceptive method. The aim of this task is to identify interesting associations and relationships among these socio-economic factors that influence contraceptive method choice using association rule mining.
